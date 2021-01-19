@@ -16,5 +16,5 @@ python main.py
 
 
 ## scrapy框架流程图
-![scrapy](.\scrapy.jpg)
+![scrapy](https://github.com/zxk0029/crawl/blob/master/scrapy.jpg)
 
